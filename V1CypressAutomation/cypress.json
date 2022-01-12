@@ -1,0 +1,21 @@
+
+
+    {
+        "viewportWidth": 1280,
+        "viewportHeight": 720,
+      
+        "baseUrl": "http://localhost:5002/login",
+        "experimentalSessionSupport": true,
+        "username": "administrator",
+        "password": "administrator",
+
+        "reporter": "../node_modules/mochawesome/src/mochawesome.js",
+        "reporterOptions": {
+            "overwrite": false,
+            "html": true,
+            "json": false
+        }
+        
+    }
+
+    
